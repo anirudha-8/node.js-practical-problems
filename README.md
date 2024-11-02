@@ -13,9 +13,9 @@ Welcome to the **Node.js 30+ Practical Problems** repository! 🌟 This is a col
 ```js
 node.js-practical-problems/
 ├── README.md
-├── problem-1-simple-server/ (submodule)
-├── problem-2-file-system-operations/ (submodule)
-├── problem-3-rest-api/ (submodule)
+├── 01-hello-world-node-problem/ (submodule)
+├── 02-read-file-node-problem/ (submodule)
+├── 03-write-file-node-problem/ (submodule)
 └── ...
 ```
 
@@ -54,7 +54,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 
 | #   | Problem Name                      | Description                                     |
 |-----|-----------------------------------|-------------------------------------------------|
-| 1   | Simple Server                     | Build a basic HTTP server.                     |
+| 1   | [hello world](https://github.com/anirudha-8/01-hello-world-node-problem.git)                     | Build a basic HTTP server.                     |
 | 2   | File System Operations            | Work with files and directories in Node.js.    |
 | 3   | REST API                          | Create a simple REST API with Express.js.      |
 | ... | More to Come!                     | Stay tuned for additional challenges.          |

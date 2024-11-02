@@ -10,8 +10,8 @@ Welcome to the **Node.js 30+ Practical Problems** repository! 🌟 This is a col
 
 ## 🚀 Repository Structure
 
-```
-nodejs-30-practical-problems/
+```js
+node.js-practical-problems/
 ├── README.md
 ├── problem-1-simple-server/ (submodule)
 ├── problem-2-file-system-operations/ (submodule)
@@ -28,7 +28,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 1. **Clone the Repository**
 
    ```bash
-   git clone --recurse-submodules <repository-url>
+   git clone --recurse-submodules https://github.com/anirudha-8/node.js-practical-problems.git
    ```
 
    This will clone the main repository along with all the submodules.

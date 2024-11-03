@@ -1,3 +1,6 @@
 [submodule "01-hello-world-node-problem"]
 	path = 01-hello-world-node-problem
 	url = https://github.com/anirudha-8/01-hello-world-node-problem.git
+[submodule "02-read-file-node-problem"]
+	path = 02-read-file-node-problem
+	url = https://github.com/anirudha-8/02-read-file-node-problem.git

@@ -54,8 +54,8 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 
 | #   | Problem Name                      | Description                                     |
 |-----|-----------------------------------|-------------------------------------------------|
-| 1   | [hello world](https://github.com/anirudha-8/01-hello-world-node-problem.git)                     | Build a basic HTTP server.                     |
-| 2   | File System Operations            | Work with files and directories in Node.js.    |
+| 1   | [hello world](https://github.com/anirudha-8/01-hello-world-node-problem.git) | Build a basic HTTP server.                     |
+| 2   | [read file](https://github.com/anirudha-8/02-read-file-node-problem.git) | Node.js script that reads the content of a file    |
 | 3   | REST API                          | Create a simple REST API with Express.js.      |
 | ... | More to Come!                     | Stay tuned for additional challenges.          |
 

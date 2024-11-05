@@ -54,9 +54,10 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 
 | #   | Problem Name                      | Description                                     |
 |-----|-----------------------------------|-------------------------------------------------|
-| 1   | [hello world](https://github.com/anirudha-8/01-hello-world-node-problem.git) | Build a basic HTTP server.                     |
-| 2   | [read file](https://github.com/anirudha-8/02-read-file-node-problem.git) | Node.js script that reads the content of a file    |
-| 3   | [write file](https://github.com/anirudha-8/03-write-file-node-problem.git)  | Create a Node.js script that writes the string `"Hello, Node.js!"` to a file called `output.txt`.      |
+| 1   | [hello world](https://github.com/anirudha-8/01-hello-world-node-problem.git) | Build a basic HTTP server. |
+| 2   | [read file](https://github.com/anirudha-8/02-read-file-node-problem.git) | Node.js script that reads the content of a file. |
+| 3   | [write file](https://github.com/anirudha-8/03-write-file-node-problem.git)  | Create a Node.js script that writes the string `"Hello, Node.js!"` to a file called `output.txt`. |
+| 4 | [http server](https://github.com/anirudha-8/04-basic-http-server-node-problem.git) | Create a Node.js script that sets up an HTTP server. The server should respond with the message `"Hello, World!"` to any incoming request. |
 | ... | More to Come!                     | Stay tuned for additional challenges.          |
 
 ---

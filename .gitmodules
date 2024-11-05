@@ -7,3 +7,6 @@
 [submodule "03-write-file-node-problem"]
 	path = 03-write-file-node-problem
 	url = https://github.com/anirudha-8/03-write-file-node-problem.git
+[submodule "04-basic-http-server-node-problem"]
+	path = 04-basic-http-server-node-problem
+	url = https://github.com/anirudha-8/04-basic-http-server-node-problem.git

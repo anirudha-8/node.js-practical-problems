@@ -4,3 +4,6 @@
 [submodule "02-read-file-node-problem"]
 	path = 02-read-file-node-problem
 	url = https://github.com/anirudha-8/02-read-file-node-problem.git
+[submodule "03-write-file-node-problem"]
+	path = 03-write-file-node-problem
+	url = https://github.com/anirudha-8/03-write-file-node-problem.git

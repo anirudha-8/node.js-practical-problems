@@ -59,6 +59,8 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 3   | [write file](https://github.com/anirudha-8/03-write-file-node-problem.git)  | Create a Node.js script that writes the string `"Hello, Node.js!"` to a file called `output.txt`. |
 | 4 | [http server](https://github.com/anirudha-8/04-basic-http-server-node-problem.git) | Create a Node.js script that sets up an HTTP server. The server should respond with the message `"Hello, World!"` to any incoming request. |
 | 5 | [command line arguments](https://github.com/anirudha-8/05-command-line-argument-node-problem.git) | Write a Node.js script that takes a name as a command-line argument and prints `"Hello, [name]!"` to the console. |
+| 6 | [read directory content](https://github.com/anirudha-8/06-name-of-all-files-in-directory-node-problem.git) | Write a Node.js script that reads the content of a directory and prints the names of all files in it to the console.Write a Node.js script that takes a name as a command-line argument and prints `"Hello, [name]!"` to the console. |
+| 7 | [command line calculator](https://github.com/anirudha-8/07-simple-calculator-node-problem.git) | Write a Node.js script that functions as a command-line calculator. The script should take three arguments |
 | ... | More to Come!                     | Stay tuned for additional challenges.          |
 
 ---

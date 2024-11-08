@@ -10,3 +10,6 @@
 [submodule "04-basic-http-server-node-problem"]
 	path = 04-basic-http-server-node-problem
 	url = https://github.com/anirudha-8/04-basic-http-server-node-problem.git
+[submodule "05-command-line-argument-node-problem"]
+	path = 05-command-line-argument-node-problem
+	url = https://github.com/anirudha-8/05-command-line-argument-node-problem.git

@@ -58,6 +58,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 2   | [read file](https://github.com/anirudha-8/02-read-file-node-problem.git) | Node.js script that reads the content of a file. |
 | 3   | [write file](https://github.com/anirudha-8/03-write-file-node-problem.git)  | Create a Node.js script that writes the string `"Hello, Node.js!"` to a file called `output.txt`. |
 | 4 | [http server](https://github.com/anirudha-8/04-basic-http-server-node-problem.git) | Create a Node.js script that sets up an HTTP server. The server should respond with the message `"Hello, World!"` to any incoming request. |
+| 5 | [command line arguments](https://github.com/anirudha-8/05-command-line-argument-node-problem.git) | Write a Node.js script that takes a name as a command-line argument and prints `"Hello, [name]!"` to the console. |
 | ... | More to Come!                     | Stay tuned for additional challenges.          |
 
 ---

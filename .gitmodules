@@ -13,3 +13,6 @@
 [submodule "05-command-line-argument-node-problem"]
 	path = 05-command-line-argument-node-problem
 	url = https://github.com/anirudha-8/05-command-line-argument-node-problem.git
+[submodule "06-name-of-all-files-in-directory-node-problem"]
+	path = 06-name-of-all-files-in-directory-node-problem
+	url = https://github.com/anirudha-8/06-name-of-all-files-in-directory-node-problem.git

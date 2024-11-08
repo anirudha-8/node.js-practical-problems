@@ -19,3 +19,6 @@
 [submodule "07-simple-calculator-node-problem"]
 	path = 07-simple-calculator-node-problem
 	url = https://github.com/anirudha-8/07-simple-calculator-node-problem.git
+[submodule "08-events-emitter-node-problem"]
+	path = 08-events-emitter-node-problem
+	url = https://github.com/anirudha-8/08-event-emitter-node-problem.git

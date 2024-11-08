@@ -63,7 +63,8 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 7 | [command line calculator](https://github.com/anirudha-8/07-simple-calculator-node-problem.git) | Write a Node.js script that functions as a command-line calculator. The script should take three arguments |
 | 8 | [events emitter](https://github.com/anirudha-8/08-event-emitter-node-problem.git) | Create a Node.js script that demonstrates the use of the `EventEmitter` class from the `events` module. |
 | 9 | [json file handling](https://github.com/anirudha-8/09-json-file-handling-node-problem.git) | Write a Node.js script that will reads the content of a JSON file and modifies a specific part of the data also writes the modified content back to the file. |
-| ... | More to Come!                     | Stay tuned for additional challenges.          |
+| 10 | [simple tcp server](https://github.com/anirudha-8/10-simple-tcp-server-node-problem.git) | Create a simple **TCP Server** using Node.js's `net` module.  |
+| ... | More to Come! | Stay tuned for additional challenges. |
 
 ---
 

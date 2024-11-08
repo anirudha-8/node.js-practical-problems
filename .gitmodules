@@ -25,3 +25,6 @@
 [submodule "09-json-file-handling-node-problem"]
 	path = 09-json-file-handling-node-problem
 	url = https://github.com/anirudha-8/09-json-file-handling-node-problem.git
+[submodule "10-simple-tcp-server-node-problem"]
+	path = 10-simple-tcp-server-node-problem
+	url = https://github.com/anirudha-8/10-simple-tcp-server-node-problem.git

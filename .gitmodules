@@ -16,3 +16,6 @@
 [submodule "06-name-of-all-files-in-directory-node-problem"]
 	path = 06-name-of-all-files-in-directory-node-problem
 	url = https://github.com/anirudha-8/06-name-of-all-files-in-directory-node-problem.git
+[submodule "07-simple-calculator-node-problem"]
+	path = 07-simple-calculator-node-problem
+	url = https://github.com/anirudha-8/07-simple-calculator-node-problem.git

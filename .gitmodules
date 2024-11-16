@@ -46,3 +46,6 @@
 [submodule "16-express-form-submit-node-problem"]
 	path = 16-express-form-submit-node-problem
 	url = https://github.com/anirudha-8/16-express-form-submit-node-problem.git
+[submodule "17-express-route-json-respond-node-problem"]
+	path = 17-express-route-json-respond-node-problem
+	url = https://github.com/anirudha-8/17-express-route-json-respond-node-problem.git

@@ -31,3 +31,6 @@
 [submodule "11-simple-express-server-node-problem"]
 	path = 11-simple-express-server-node-problem
 	url = https://github.com/anirudha-8/11-simple-express-server-node-problem.git
+[submodule "12-express-route-parameter-node-problem"]
+	path = 12-express-route-parameter-node-problem
+	url = https://github.com/anirudha-8/12-express-route-parameter-node-problem.git

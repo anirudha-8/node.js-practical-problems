@@ -65,6 +65,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 9 | [json file handling](https://github.com/anirudha-8/09-json-file-handling-node-problem.git) | Write a Node.js script that will reads the content of a JSON file and modifies a specific part of the data also writes the modified content back to the file. |
 | 10 | [simple tcp server](https://github.com/anirudha-8/10-simple-tcp-server-node-problem.git) | Create a simple **TCP Server** using Node.js's `net` module.  |
 | 11 | [simple express server](https://github.com/anirudha-8/11-simple-express-server-node-problem.git) | Create a simple `Express.js` server  |
+| 12 | [express route parameter](https://github.com/anirudha-8/12-express-route-parameter-node-problem.git) | Create an **Express.js route** that, accepts a `username` as a route parameter and also responds with the message: **"Hello, [username]!"** where `[username]` is the value passed in the URL.  |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---

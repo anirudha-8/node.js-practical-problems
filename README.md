@@ -71,6 +71,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 15 | [express middleware](https://github.com/anirudha-8/15-express-middleware-node-problem.git) | Create an **Express.js middleware** that logs the **request method** and **URL** for each incoming request to the server. |
 | 16 | [express form data submit](https://github.com/anirudha-8/16-express-form-submit-node-problem.git) | Create an Express server that, serves an HTML form, handles a **POST request** when the form is submitted and responds with the submitted form data in a structured format. |
 | 17 | [express route for json respond](https://github.com/anirudha-8/17-express-route-json-respond-node-problem.git) | Create an Express route `/users` that responds to GET requests with a JSON object containing a list of users. Each user object should include the following fields. |
+| 18 | [express custom error handling](https://github.com/anirudha-8/18-express-custom-error-handling-node-problem.git) | Create an Express application that returns a custom error message for invalid routes (routes that are not defined in the application). |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---

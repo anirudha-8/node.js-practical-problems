@@ -34,3 +34,6 @@
 [submodule "12-express-route-parameter-node-problem"]
 	path = 12-express-route-parameter-node-problem
 	url = https://github.com/anirudha-8/12-express-route-parameter-node-problem.git
+[submodule "13-express-query-parameter-node-problem"]
+	path = 13-express-query-parameter-node-problem
+	url = https://github.com/anirudha-8/13-express-query-parameter-node-problem.git

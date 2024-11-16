@@ -66,6 +66,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 10 | [simple tcp server](https://github.com/anirudha-8/10-simple-tcp-server-node-problem.git) | Create a simple **TCP Server** using Node.js's `net` module.  |
 | 11 | [simple express server](https://github.com/anirudha-8/11-simple-express-server-node-problem.git) | Create a simple `Express.js` server  |
 | 12 | [express route parameter](https://github.com/anirudha-8/12-express-route-parameter-node-problem.git) | Create an **Express.js route** that, accepts a `username` as a route parameter and also responds with the message: **"Hello, [username]!"** where `[username]` is the value passed in the URL.  |
+| 13 | [express query parameter](https://github.com/anirudha-8/13-express-query-parameter-node-problem.git) | Create an **Express.js route** that, accepts a query parameter `name`. And responds with the message: **"Hello, [name]!"** if the `name` query parameter is provided also if `name` is not provided then sends a default response. |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---

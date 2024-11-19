@@ -72,6 +72,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 16 | [express form data submit](https://github.com/anirudha-8/16-express-form-submit-node-problem.git) | Create an Express server that, serves an HTML form, handles a **POST request** when the form is submitted and responds with the submitted form data in a structured format. |
 | 17 | [express route for json respond](https://github.com/anirudha-8/17-express-route-json-respond-node-problem.git) | Create an Express route `/users` that responds to GET requests with a JSON object containing a list of users. Each user object should include the following fields. |
 | 18 | [express custom error handling](https://github.com/anirudha-8/18-express-custom-error-handling-node-problem.git) | Create an Express application that returns a custom error message for invalid routes (routes that are not defined in the application). |
+| 19 | [rest api crud operation](https://github.com/anirudha-8/19-rest-api-crud-operation-node-problem.git) | Build a RESTful API that performs **CRUD operations** on a collection of books. Each book will have the following attributes - `id`: A unique identifier (integer), `title`: The title of the book (string), and `author`: The author of the book (string). |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---

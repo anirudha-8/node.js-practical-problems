@@ -55,3 +55,6 @@
 [submodule "19-rest-api-crud-operation-node-problem"]
 	path = 19-rest-api-crud-operation-node-problem
 	url = https://github.com/anirudha-8/19-rest-api-crud-operation-node-problem.git
+[submodule "20-template-engine-pug-node-problem"]
+	path = 20-template-engine-pug-node-problem
+	url = https://github.com/anirudha-8/20-template-engine-pug-node-problem.git

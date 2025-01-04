@@ -81,8 +81,11 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 ## 🎯 Key Features
 
 - 🌟 **Beginner to Advanced Problems**: Gradual progression from basics to complex tasks.
+
 - 🧩 **Modular Structure**: Focus on one problem at a time.
+
 - 📖 **Practical Approach**: Learn Node.js through hands-on projects.
+
 - 🚀 **Real-World Scenarios**: Gain experience with practical use cases.
 
 ---
@@ -92,7 +95,9 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 We welcome contributions! Here’s how you can get involved:
 
 1. Fork the repository.
+
 2. Add your own Node.js problem as a new submodule.
+
 3. Submit a pull request.
 
 ---
@@ -101,4 +106,6 @@ We welcome contributions! Here’s how you can get involved:
 
 This repository is a hands-on resource for learning Node.js through practice. Whether you're just starting out or looking to enhance your skills, these challenges are perfect for you.
 
-**Happy Coding! 💻**
+---
+
+Happy Coding! 💻

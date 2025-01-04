@@ -73,6 +73,7 @@ Each problem resides in its own repository and is added here as a submodule. Thi
 | 17 | [express route for json respond](https://github.com/anirudha-8/17-express-route-json-respond-node-problem.git) | Create an Express route `/users` that responds to GET requests with a JSON object containing a list of users. Each user object should include the following fields. |
 | 18 | [express custom error handling](https://github.com/anirudha-8/18-express-custom-error-handling-node-problem.git) | Create an Express application that returns a custom error message for invalid routes (routes that are not defined in the application). |
 | 19 | [restful api CRUD operations](https://github.com/anirudha-8/19-rest-api-crud-operation-node-problem.git) | Build an RestFul API that performs CRUD operations. |
+| 20 | [template engine - pug](https://github.com/anirudha-8/20-template-engine-pug-node-problem.git) | Create an Express server using the Pug template engine to render a dynamic HTML page |
 | ... | More to Come! | Stay tuned for additional challenges. |
 
 ---

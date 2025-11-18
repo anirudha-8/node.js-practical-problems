@@ -52,3 +52,6 @@
 [submodule "18-express-custom-error-handling-node-problem"]
 	path = 18-express-custom-error-handling-node-problem
 	url = https://github.com/anirudha-8/18-express-custom-error-handling-node-problem.git
+[submodule "19-rest-api-crud-operation-node-problem"]
+	path = 19-rest-api-crud-operation-node-problem
+	url = https://github.com/anirudha-8/19-rest-api-crud-operation-node-problem.git
